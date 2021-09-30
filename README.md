@@ -18,3 +18,6 @@ A custom string class, written in C++. Attempts to mimic the functionality of th
 - Destructor
 - StrFind
 - Strlen
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
